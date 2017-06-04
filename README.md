@@ -1,38 +1,38 @@
 # Git.NB
 A android app client for Github.
 
-# 效果图
+# Preview
 
-![image](https://github.com/Jeffmen/Git.NB/blob/master/apk/MI%204LTE_Recording_20170326.gif)
+![Image](https://github.com/Jeffmen/Git.NB/blob/master/apk/MI%204LTE_Recording_20170326.gif)
 
-# 关于项目
+# About the project
 
-Git.NB现以升级到2.0，功能大有升级，UI大改版本。各种有趣的操作，欢迎下载代码试完。
+Git.NB is now upgraded to 2.0, which greatly upgrades the functions and the UI has been overhauled completely. A variety of interesting operations have also been added, you are welcome to download and try the code.
 
-如果发现有任何问题和建议，随时欢迎Email或者开Issues, 如果有版权问题，立即删除。
+If you have any questions or suggestions, I always welcome an Email, or open an issue here on github, if there are copyright issues, delete immediately.
 
-# 使用的开源技术
+# Uses open source technology
 
-1，网络端使用非常牛叉非常好用的[Retrofit2.0](https://github.com/square/retrofit)
+1, the network uses RetroFit2, it is very easy to use [Retrofit2.0](https://github.com/square/retrofit)
 
-2，网络图片加载用的[Fresco](https://github.com/facebook/fresco)
+2, the network image loading with [Fresco](https://github.com/facebook/fresco)
 
-3，[RycyclerView animators](https://github.com/wasabeef/recyclerview-animators)动画
+3, [RycyclerView animators](https://github.com/wasabeef/recyclerview-animators) animation
 
-4，左滑退出界面引用[Swipebacklayout](https://github.com/ikew0ng/SwipeBackLayout)，gradle上版本好像没代码新，里面有个BUG，左    滑背景是黑的，不是透明的，最新代码是没有这个问题的。
+4, left slide out interface reference [Swipebacklayout](https://github.com/ikew0ng/SwipeBackLayout), gradle version seems no code new, there is a BUG, ​​left slide background is black, not transparent, the latest code Is not the problem.
 
-5，[Rxjava](https://github.com/ReactiveX/RxJava)
+5, [Rxjava](https://github.com/ReactiveX/RxJava)
 
-6，个人非常喜欢的图标库[iconify](https://github.com/JoanZapata/android-iconify)
+6, personal favorite icon library [iconify](https://github.com/JoanZapata/android-iconify)
 
-# 关于GitHub的api
+# About GitHub's api
 
-GitHub的api管理非学好，好用易懂，真是楷模啊，可以去官网看[api](https://developer.github.com/v3/)的使用介绍。
+GitHub the api management non-learn, easy to understand, really a model ah, you can go to the official website to see [api](https://developer.github.com/v3/) the use of introduction.
 
-GitHub客户端登录认证，可以的自己账户设置里OAuth applications－Developer applications中申请。
+GitHub client login authentication, you can own account settings in OAuth applications-Developer applications applications.
 
 
-如果对你有帮助给个star吧,欢迎pull requests(^_^）
+If you are helpful to the star, welcomepull requests(^_^）
 
 # License
 
